@@ -122,5 +122,8 @@
       }
     }
   },
-  "defaultProject": "qazline-frontend"
+  "defaultProject": "qazline-frontend",
+  "cli": {
+    "analytics": "353a40d0-24ee-4468-bc1a-8caa9197e2ed"
+  }
 }
